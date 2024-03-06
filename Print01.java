@@ -9,6 +9,9 @@ public class Print01 {
 		
 		System.out.println("이름 : " + myName);
 		System.out.println("나이 : " + myAge);
+		System.out.println();
+		System.out.print("이름 : " + myName);
+		System.out.print("      나이 : " + myAge);
 	
 	}
 
